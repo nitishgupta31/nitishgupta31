@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishgupta31" alt="Nitish Gupta" /> </p>
 -->
 
-- 🔭 I’m currently working on my Web Development Skills.
+- 🔭 I’m on the way to Improve my technical and problem solving skills more.
 - 💬 Ask me about anything.
 - 📫 How to reach me: gnitish31@gmail.com
 <br>
