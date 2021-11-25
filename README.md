@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://symbols.getvecta.com/stencil_92/58_pug-icon.f03a1e640b.svg" alt="pugjs" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/67255069/143394516-acfc4a48-1274-41d9-a688-5cde1b03c143.png" alt="pugjs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
